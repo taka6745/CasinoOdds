@@ -1,0 +1,8 @@
+{
+    "title": "Casino Odd Project",
+    "description": "This project develops a C++ application to simulate casino games, aiming to provide an insightful understanding of gambling odds. It sets the stage for constructing a Python model to strategically analyze and improve game outcomes.",
+    "type": "Game",
+    "photo": "https://i.pinimg.com/736x/5d/f3/68/5df3683a03c0d293ffaf3f7993f4b651.jpg",
+    "tags": "C++, Data Analytics",
+    "related_projects": ""
+}
